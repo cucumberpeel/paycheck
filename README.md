@@ -1,3 +1,16 @@
+Disclaimer:
+I am a) practicing React, most importantly, and b) attempting to objectify/quantify experiences that are very subjective. This is EXTREMELY opinionated and definitely not for public use. Everyone will weigh factors differently (for example, how much do registration costs actually matter to you? How about practice ice costs? Score discrepancies?), so this formula is just based on my priorities.
+
+Problems:
+1. Skating competitions are expensive.
+2. The total cost of every skating competition is different.
+3. There are some competitions that consistently over- or under-score each year, and (personal opinion) I don't want to waste my time or money on those that do the latter.
+
+Solution:
+A numerical approach to the cost-effectiveness of a skating competition. Can be used to determine attendance in following years.
+
+Prototype/original idea: https://docs.google.com/spreadsheets/d/1X1QkJQLroyY7i87l9HEeItmce_mea-sGR8lkepuX94g/edit?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
