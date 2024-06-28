@@ -1,5 +1,6 @@
 Disclaimer:
 I am a) practicing React, most importantly, and b) attempting to objectify/quantify experiences that are very subjective. This is EXTREMELY opinionated and definitely not for public use. Everyone will weigh factors differently (for example, how much do registration costs actually matter to you? How about practice ice costs? Score discrepancies?), so this formula is just based on my priorities.
+Also, this is only for the solo dance series. I don't think freestyle can be quantified like this
 
 Problems:
 1. Skating competitions are expensive.
